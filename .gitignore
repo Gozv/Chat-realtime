@@ -1,0 +1,20 @@
+# Entornos virtuales
+venv/
+.env
+
+# Archivos de IDE
+.vscode/
+.idea/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+
+*.sqlite3
+
+dist/
+build/
+*.egg-info/

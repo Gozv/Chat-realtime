@@ -1,4 +1,6 @@
 flask==3.0.2
-python-socketio==5.11.2
 flask-socketio==5.3.6
-eventlet==0.35.1
+python-socketio==5.11.2
+gevent==24.2.1
+greenlet==3.0.3
+gevent-websocket==0.10.1
